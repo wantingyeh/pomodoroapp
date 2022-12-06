@@ -18,13 +18,13 @@ The Pomodoro Technique was developed in the late 1980s by Francesco Cirillo. Now
 # modification
 If you want to modify the constants of this app, you can change the variables in "CONSTANTS" section
 
-PINK = "#e2979c"
-RED = "#e7305b"
-GREEN = "#9bdeac"
-YELLOW = "#f7f5dd"
-FONT_NAME = "Courier"
-WORK_MIN = 25
-SHORT_BREAK_MIN = 5
-LONG_BREAK_MIN = 20
-reps = 0     # repetition
+PINK = "#e2979c" \
+RED = "#e7305b" \
+GREEN = "#9bdeac" \
+YELLOW = "#f7f5dd" \
+FONT_NAME = "Courier" \
+WORK_MIN = 25 \
+SHORT_BREAK_MIN = 5 \
+LONG_BREAK_MIN = 20 \
+reps = 0     # repetition \
 timer = None
